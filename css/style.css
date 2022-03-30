@@ -161,6 +161,153 @@ a:hover {
     font-weight: 500;
 }
 
+/* Test */
+
+.testimonial-section {
+    position: relative;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.testimonial-section .test-titile{
+    position: relative;
+    padding-bottom: 2rem;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.testimonial-section .card {
+    position: relative;
+    margin-bottom: 3rem;
+    padding: 3rem;
+    border: none;
+    border-radius: 0.25rem;
+    background: #fff;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); 
+}
+
+.testimonial-section img {
+    position: relative;
+    border-radius: 50%;
+}
+
+.testimonial-section .test-desc {
+    position: relative;
+    padding-top: 1.5rem;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.testimonial-section .test-name {
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #a5a7a7;
+}
+
+/* Blog */
+
+.blog-section {
+    position: relative;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.blog-section .blog-title {
+    position: relative;
+    padding-bottom: 2rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000;
+}
+
+.blog-section .card {
+    position: relative;
+    height: 100%;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    background: #fff;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.blog-section .blog-img {
+    position: relative;
+    height: 100%;
+}
+
+.blog-section .blog-name,
+.blog-section .blog-btn {
+    position: relative;
+    margin-top: 20px;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #a5a7a7;
+}
+
+.blog-section .card-btn {
+    position: relative;
+    text-align: center;
+}
+
+.blog-section .card-title {
+    position: relative;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #000;
+}
+
+.blog-section .card-desc {
+    position: relative;
+    padding-top: 1.5rem;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* Contact */
+
+.contact-section {
+    position: relative;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.contact-section .contact-title {
+    position: relative;
+    margin: 0;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.contact-section p {
+    position: relative;
+    font-size: 22px;
+    font-weight: 500;
+}
+
 /* Footer */
 
 .footer {
